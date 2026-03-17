@@ -5,8 +5,9 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I have a degree in management  
+- 🎓 I have a degree in **Management**  
 - 💻 Currently learning **Python** and programming  
+- 📚 Learning coding on **Mimo**  
 - 🌱 I’m still a beginner but very motivated to improve  
 - 🎯 My goal is to become a developer and work in tech  
 
@@ -26,6 +27,22 @@
 - Python basics  
 - Algorithms  
 - Problem solving  
+
+---
+
+### 🎯 Goals
+
+- Improve my Python skills  
+- Build small projects  
+- Learn web development  
+
+---
+
+### 🌍 Languages
+
+- Arabic: Native  
+- French: Intermediate  
+- English: Basic  
 
 ---
 
