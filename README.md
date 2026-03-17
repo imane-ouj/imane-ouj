@@ -8,6 +8,7 @@
 - 🎓 I have a degree in **Management**  
 - 💻 Currently learning **Python** and programming  
 - 📚 Learning coding on **Mimo**  
+- 🧠 Studying **Algorithms**  
 - 🌱 I’m still a beginner but very motivated to improve  
 - 🎯 My goal is to become a developer and work in tech  
 
