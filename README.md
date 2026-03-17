@@ -56,7 +56,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: imaneoujaha00@gmail.com  
-- 💬 Telegram: (add your username here)
+- 💬 Telegram: https://t.me/imane_ouj00  
 
 ---
 
